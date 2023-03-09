@@ -1,14 +1,3 @@
-﻿![](textfile.001.png)
-![](textfile.002.png)![Text
-
-Description automatically generated](textfile.003.png)![Text
-
-Description automatically generated](textfile.003.png)![Text
-
-Description automatically generated](textfile.003.png)
-
-
-
 # AI Explorers Program Pilots Initiative in OIT
 
 This repository contains information related to the AI Explorers Program Pilots Initiative in OIT, which provided funding for CMS employee-led pilot teams to learn how artificial intelligence (AI) applications could address their business needs.
