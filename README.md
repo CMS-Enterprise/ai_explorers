@@ -148,4 +148,4 @@ Instructions on how to contribute to the project, including guidelines for pull 
 
 This project is licensed under the [License Name] License - see the license files in each repository for details.
 
-**Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/**
+
