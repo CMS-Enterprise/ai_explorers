@@ -22,7 +22,7 @@ The goals of the pilot initiative are:
     - [CCSQ Pilot](#CCSQ)
     - [OC Pilot](#OC)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 <a id="usage"></a>
 ## Usage
@@ -156,9 +156,4 @@ The OC Pilot trained and test dozens of ML models using data from CCXP and MCT t
 
 Instructions on how to contribute to the project, including guidelines for pull requests and code reviews.
 
-<a id="license"></a>
-## License
 
-This project is licensed under the [License Name] License - see the license files in each repository for details.
-
-**Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/**
