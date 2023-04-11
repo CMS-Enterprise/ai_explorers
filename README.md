@@ -14,19 +14,27 @@ The goals of the pilot initiative are:
 
 ## Table of Contents
 
-- Usage
-- Pilots
-- Contributing
-- License
+- [Usage](#usage)
+- [Pilots](#pilots)
+    - [OHC Pilot](#OHC)
+    - [OEDA Pilot](#OEDA)
+    - [OIT Pilot](#OIT)
+    - [CCSQ Pilot](#CCSQ)
+    - [OC Pilot](#OC)
+- [Contributing](#contributing)
 
+
+<a id="usage"></a>
 ## Usage
 
 Instructions on how to use the project, including examples.
 
+<a id="pilots"></a>
 ## Pilots
 
 Several pilots have been completed by a variety of components, such as OHC, OEDA, OIT, and others are awardees are in progress now. The previous pilots were selected based on the following evaluation criteria:
 
+<a id="OHC"></a>
 ## OHC Pilot
 
 **Use Case Description**
@@ -50,6 +58,7 @@ A proof-of-concept was developed, showcasing how machine learning can be applied
 - Eric Rowe (OHC)
 - Status: Completed
 
+<a id="OEDA"></a>
 ## OEDA Pilot
 
 **Use Case Description**
@@ -73,6 +82,7 @@ The project was completed and provided insight into the factors that contribute 
 - James DelAguila
 - Status: Completed
 
+<a id="OIT"></a>
 ## OIT Pilot
 
 **Use Case Description**
@@ -95,6 +105,7 @@ The OIT Pilot resulted in the development of a machine-readable technical profil
 
 <span style="color:#0070C0">[CONTACTS]</span>
 
+<a id="CCSQ"></a>
 ## CCSQ Pilot
 
 **Use Case Description**
@@ -116,6 +127,7 @@ The CCSQ Pilot resulted in the development of three machine learning models – 
 - Mark Canfield, <Mark.Canfield@cms.hhs.gov> 
 - Benjamin Ghahhari, <Benjamin.Ghahhari@cms.hhs.gov> 
 
+<a id="OC"></a>
 ## OC Pilot
 
 **Use Case Description**
@@ -139,15 +151,9 @@ The OC Pilot trained and test dozens of ML models using data from CCXP and MCT t
 - David Kane, <david.kane@cms.hhs.gov>, WETG/DWPS – COR/Technical Advisor
 - Matt Raschka, <matthew.raschka@cms.hhs.gov>, WETG – Technical Advisor
 
+<a id="contributing"></a>
 ## Contributing
 
 Instructions on how to contribute to the project, including guidelines for pull requests and code reviews.
-
-
-## License
-
-This project is licensed under the [License Name] License - see the license files in each repository for details.
-
-
 
 
