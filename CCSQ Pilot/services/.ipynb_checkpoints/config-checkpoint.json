@@ -1,0 +1,55 @@
+{
+  "column_variations": [
+    [
+      "measure_start_date",
+      "Measure Start Date",
+      "Measure Start date",
+      "Start Date"
+    ],
+    [
+      "measure_end_date",
+      "Measure End Date",
+      "End Date"
+    ],
+    [
+      "provider_id",
+      "Provider ID",
+      "Provider Number",
+      "Facility ID"
+    ],
+    [
+      "measure_id",
+      "Measure ID",
+      "Measure Code"
+    ],
+    [
+      "score",
+      "Score"
+    ]
+  ],
+  "provider_id_column_name": "provider_id",
+  "measure_id_column_name": "measure_id",
+  "score_column_name": "score",
+  "measure_start_date_column_name": "measure_start_date",
+  "measure_end_date_column_name": "measure_end_date",
+  "y_quarter_column_name": "y_quarter",
+  "year_column_name": "year",
+  "quarter_column_name": "quarter",
+  "lag_diff_column_name": "lag_diff",
+  "prov_mean_column_name": "prov_mean",
+  "prov_mean_diff_column_name": "prov_mean_diff",
+  "limiter": null,
+  "lag_to_add": 2,
+  "drop_nan_rows_for_columns": [
+    "score",
+    "measure_start_date",
+    "measure_end_date"
+  ],
+  "LOCAL_TEMP_DIR": "tmp",
+  "FULL_MEASURE_DATA_BUCKET": "haip-full-measure-data",
+  "MEASURE_SPECIFIC_DATA_BUCKET": "haip-measure-specific-data",
+  "SHAREPOINT_TENANT_PREFIX": "rtiiadeptive",
+  "SHAREPOINT_AUTH_MODE": "user",
+  "SHAREPOINT_MEASURES_SOURCE_DIR": "Shared Documents/Measures",
+  "LOCAL_DOWNLOAD_DIR": "downloaded"
+}
