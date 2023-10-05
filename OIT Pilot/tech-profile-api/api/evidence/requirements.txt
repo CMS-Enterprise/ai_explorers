@@ -1,0 +1,5 @@
+spacy
+scispacy
+spacy-entity-linker
+python-docx
+pandas

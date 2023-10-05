@@ -1,0 +1,158 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+
+Globals:
+  Function:
+    Timeout: 30
+    MemorySize: 512
+
+Resources:
+  SystemPostApiFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Runtime: python3.8
+      CodeUri: api/system/
+      Handler: index.create_system
+      Environment:
+        Variables:
+          SYSTEM_TABLE: !Ref SystemTable
+      Policies:
+        - DynamoDBCrudPolicy:
+            TableName: !Ref SystemTable
+      Events:
+        Request:
+          Type: Api
+          Properties:
+            Path: /system/
+            Method: post
+  
+  SystemGetApiFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Runtime: python3.8
+      CodeUri: api/system/
+      Handler: index.get_system
+      Environment:
+        Variables:
+          SYSTEM_TABLE: !Ref SystemTable
+      Policies:
+        - DynamoDBCrudPolicy:
+            TableName: !Ref SystemTable
+      Events:
+        Request:
+          Type: Api
+          Properties:
+            Path: /system/{sysid}
+            Method: get
+  
+  SystemListApiFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Runtime: python3.8
+      CodeUri: api/system/
+      Handler: index.list_systems
+      Environment:
+        Variables:
+          SYSTEM_TABLE: !Ref SystemTable
+      Policies:
+        - DynamoDBCrudPolicy:
+            TableName: !Ref SystemTable
+      Events:
+        Request:
+          Type: Api
+          Properties:
+            Path: /system/
+            Method: get
+
+  SystemDeleteApiFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Runtime: python3.8
+      CodeUri: api/system/
+      Handler: index.delete_system
+      Environment:
+        Variables:
+          SYSTEM_TABLE: !Ref SystemTable
+      Policies:
+        - DynamoDBCrudPolicy:
+            TableName: !Ref SystemTable
+      Events:
+        Request:
+          Type: Api
+          Properties:
+            Path: /system/{sysid}
+            Method: delete
+  
+  EvidencePostApiFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      PackageType: Image
+      AutoPublishAlias: live
+      Timeout: 900
+      MemorySize: 10240
+      ProvisionedConcurrencyConfig:
+        ProvisionedConcurrentExecutions: 1
+      Environment:
+        Variables:
+          SYSTEM_TABLE: !Ref SystemTable
+      Policies:
+        - DynamoDBCrudPolicy:
+            TableName: !Ref SystemTable
+      Events:
+        Request:
+          Type: Api
+          Properties:
+            Path: /system/{sysid}/evidence/
+            Method: post
+    Metadata:
+      DockerTag: system-profile-evidence
+      DockerContext: ./api/evidence
+      Dockerfile: Dockerfile
+
+  EvidencePostApiFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      PackageType: Image
+      AutoPublishAlias: live
+      Timeout: 900
+      MemorySize: 10240
+      ProvisionedConcurrencyConfig:
+        ProvisionedConcurrentExecutions: 1
+      Environment:
+        Variables:
+          SYSTEM_TABLE: !Ref SystemTable
+      Policies:
+        - DynamoDBCrudPolicy:
+            TableName: !Ref SystemTable
+      Events:
+        Request:
+          Type: Api
+          Properties:
+            Path: /system/{sysid}/evidence/
+            Method: post
+    Metadata:
+      DockerTag: system-profile-evidence
+      DockerContext: ./api/evidence
+      Dockerfile: Dockerfile
+      
+  SystemTable:
+    Type: AWS::DynamoDB::Table
+    Properties: 
+      AttributeDefinitions: 
+        - 
+          AttributeName: "sysid"
+          AttributeType: "S"
+      KeySchema: 
+        - 
+          AttributeName: "sysid"
+          KeyType: "HASH"
+      BillingMode: PAY_PER_REQUEST
+
+      
+Outputs:
+  # ServerlessRestApi is an implicit API created out of Events key under Serverless::Function
+  # Find out more about other implicit resources you can reference within SAM
+  # https://github.com/awslabs/serverless-application-model/blob/master/docs/internals/generated_resources.rst#api
+  InferenceApi:
+    Description: "API Gateway endpoint URL for Prod stage for Inference function"
+    Value: !Sub "https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/"

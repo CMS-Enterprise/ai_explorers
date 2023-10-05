@@ -1,0 +1,433 @@
+item,itemLabel
+http://www.wikidata.org/entity/Q341,free software
+http://www.wikidata.org/entity/Q485,computer virus
+http://www.wikidata.org/entity/Q6368,web browser
+http://www.wikidata.org/entity/Q7889,video game
+http://www.wikidata.org/entity/Q9135,operating system
+http://www.wikidata.org/entity/Q11288,web server
+http://www.wikidata.org/entity/Q13741,integrated development environment
+http://www.wikidata.org/entity/Q14001,malware
+http://www.wikidata.org/entity/Q14644,spyware
+http://www.wikidata.org/entity/Q14645,rootkit
+http://www.wikidata.org/entity/Q14663,Unix shell
+http://www.wikidata.org/entity/Q18109,operating system shell
+http://www.wikidata.org/entity/Q45842,web crawler
+http://www.wikidata.org/entity/Q47506,compiler
+http://www.wikidata.org/entity/Q54277,word processor
+http://www.wikidata.org/entity/Q54366,packet analyzer
+http://www.wikidata.org/entity/Q62505,physics engine
+http://www.wikidata.org/entity/Q64601,scorewriter
+http://www.wikidata.org/entity/Q75050,genealogy software
+http://www.wikidata.org/entity/Q80998,firewall
+http://www.wikidata.org/entity/Q93249,antivirus software
+http://www.wikidata.org/entity/Q93661,integrated library system
+http://www.wikidata.org/entity/Q104851,firmware
+http://www.wikidata.org/entity/Q116112,bulk email software
+http://www.wikidata.org/entity/Q131093,content management system
+http://www.wikidata.org/entity/Q131212,text editor
+http://www.wikidata.org/entity/Q137742,autoresponder
+http://www.wikidata.org/entity/Q146768,middleware
+http://www.wikidata.org/entity/Q164274,spell checker
+http://www.wikidata.org/entity/Q166142,application
+http://www.wikidata.org/entity/Q167035,project management software
+http://www.wikidata.org/entity/Q176165,database management system
+http://www.wikidata.org/entity/Q183065,interpreter
+http://www.wikidata.org/entity/Q184748,codec
+http://www.wikidata.org/entity/Q184900,line editor
+http://www.wikidata.org/entity/Q188860,software library
+http://www.wikidata.org/entity/Q189210,web application
+http://www.wikidata.org/entity/Q189722,Emacs
+http://www.wikidata.org/entity/Q191865,Internet bot
+http://www.wikidata.org/entity/Q193231,debugger
+http://www.wikidata.org/entity/Q193424,web service
+http://www.wikidata.org/entity/Q193564,game engine
+http://www.wikidata.org/entity/Q202871,emulator
+http://www.wikidata.org/entity/Q205020,desktop environment
+http://www.wikidata.org/entity/Q207170,office suite
+http://www.wikidata.org/entity/Q208218,patch
+http://www.wikidata.org/entity/Q210337,media player software
+http://www.wikidata.org/entity/Q212474,font editor
+http://www.wikidata.org/entity/Q228323,conditional access system
+http://www.wikidata.org/entity/Q229371,3D computer graphics software
+http://www.wikidata.org/entity/Q240831,video codec
+http://www.wikidata.org/entity/Q271680,software framework
+http://www.wikidata.org/entity/Q279650,disassembler
+http://www.wikidata.org/entity/Q283770,vulnerability scanner
+http://www.wikidata.org/entity/Q308980,daemon
+http://www.wikidata.org/entity/Q309396,keystroke logging
+http://www.wikidata.org/entity/Q312466,utility software
+http://www.wikidata.org/entity/Q337820,graphics library
+http://www.wikidata.org/entity/Q355134,graphics engine
+http://www.wikidata.org/entity/Q373442,web browser engine
+http://www.wikidata.org/entity/Q448472,Fax server
+http://www.wikidata.org/entity/Q451816,application firewall
+http://www.wikidata.org/entity/Q453843,ontology editor
+http://www.wikidata.org/entity/Q467707,software development kit
+http://www.wikidata.org/entity/Q498267,news aggregator
+http://www.wikidata.org/entity/Q509980,shovelware
+http://www.wikidata.org/entity/Q522972,source code editor
+http://www.wikidata.org/entity/Q523796,linker
+http://www.wikidata.org/entity/Q528166,client
+http://www.wikidata.org/entity/Q537993,database engine
+http://www.wikidata.org/entity/Q565428,download manager
+http://www.wikidata.org/entity/Q569915,mail delivery agent
+http://www.wikidata.org/entity/Q570871,email client
+http://www.wikidata.org/entity/Q591919,JavaScript engine
+http://www.wikidata.org/entity/Q604227,printer driver
+http://www.wikidata.org/entity/Q615985,social software
+http://www.wikidata.org/entity/Q620615,mobile app
+http://www.wikidata.org/entity/Q625518,mail retrieval agent
+http://www.wikidata.org/entity/Q676202,system software
+http://www.wikidata.org/entity/Q692199,screen magnifier
+http://www.wikidata.org/entity/Q726761,HTML editor
+http://www.wikidata.org/entity/Q741361,enterprise asset management
+http://www.wikidata.org/entity/Q745881,intrusion detection system
+http://www.wikidata.org/entity/Q747948,hex editor
+http://www.wikidata.org/entity/Q751850,astronomy software
+http://www.wikidata.org/entity/Q753486,screensaver
+http://www.wikidata.org/entity/Q758870,digital audio editor
+http://www.wikidata.org/entity/Q762157,scenery generator
+http://www.wikidata.org/entity/Q783866,JavaScript library
+http://www.wikidata.org/entity/Q816659,notification area
+http://www.wikidata.org/entity/Q830340,computer algebra system
+http://www.wikidata.org/entity/Q831660,packet filter
+http://www.wikidata.org/entity/Q831677,document management system
+http://www.wikidata.org/entity/Q833766,port scanner
+http://www.wikidata.org/entity/Q836795,boot loader
+http://www.wikidata.org/entity/Q854840,taskbar
+http://www.wikidata.org/entity/Q860676,image viewer
+http://www.wikidata.org/entity/Q860737,photo slideshow software
+http://www.wikidata.org/entity/Q860760,image organizer
+http://www.wikidata.org/entity/Q868410,graphics software
+http://www.wikidata.org/entity/Q870898,computer security software
+http://www.wikidata.org/entity/Q874411,browser extension
+http://www.wikidata.org/entity/Q877886,compression software
+http://www.wikidata.org/entity/Q909523,Ukagaka
+http://www.wikidata.org/entity/Q913697,decompiler
+http://www.wikidata.org/entity/Q925622,knowledge-based configuration
+http://www.wikidata.org/entity/Q956086,bug tracking system
+http://www.wikidata.org/entity/Q959462,terminal pager
+http://www.wikidata.org/entity/Q974828,accounting software
+http://www.wikidata.org/entity/Q985394,editor
+http://www.wikidata.org/entity/Q1023097,CD ripper
+http://www.wikidata.org/entity/Q1033951,device driver
+http://www.wikidata.org/entity/Q1043936,computer-aided process planning
+http://www.wikidata.org/entity/Q1049941,Comparison of XMPP server software
+http://www.wikidata.org/entity/Q1050567,computer-aided engineering
+http://www.wikidata.org/entity/Q1071233,terminal emulator
+http://www.wikidata.org/entity/Q1074158,educational software
+http://www.wikidata.org/entity/Q1076785,compiler-compiler
+http://www.wikidata.org/entity/Q1077480,hypervisor
+http://www.wikidata.org/entity/Q1077784,programming tool
+http://www.wikidata.org/entity/Q1138405,Crackme
+http://www.wikidata.org/entity/Q1153924,DJ software
+http://www.wikidata.org/entity/Q1155404,vector graphics editor
+http://www.wikidata.org/entity/Q1162303,print server
+http://www.wikidata.org/entity/Q1165116,Perl module
+http://www.wikidata.org/entity/Q1165574,system monitor
+http://www.wikidata.org/entity/Q1172313,file viewer
+http://www.wikidata.org/entity/Q1187338,video game bot
+http://www.wikidata.org/entity/Q1190017,windowing system
+http://www.wikidata.org/entity/Q1193246,widget toolkit
+http://www.wikidata.org/entity/Q1194674,computer-assisted language learning
+http://www.wikidata.org/entity/Q1194864,electronic design automation
+http://www.wikidata.org/entity/Q1199356,standard library
+http://www.wikidata.org/entity/Q1200186,remote desktop software
+http://www.wikidata.org/entity/Q1281199,password manager
+http://www.wikidata.org/entity/Q1328864,screen reader
+http://www.wikidata.org/entity/Q1344636,Enterprise Content Management system
+http://www.wikidata.org/entity/Q1345429,formula editor
+http://www.wikidata.org/entity/Q1368899,command-line interpreter
+http://www.wikidata.org/entity/Q1371279,server software
+http://www.wikidata.org/entity/Q1373429,video editing software
+http://www.wikidata.org/entity/Q1391080,business software
+http://www.wikidata.org/entity/Q1403556,reference management software
+http://www.wikidata.org/entity/Q1419081,PC booter
+http://www.wikidata.org/entity/Q1440548,fractal-generating software
+http://www.wikidata.org/entity/Q1444922,runtime library
+http://www.wikidata.org/entity/Q1461523,console application
+http://www.wikidata.org/entity/Q1464880,installer
+http://www.wikidata.org/entity/Q1487455,graphical user interface builder
+http://www.wikidata.org/entity/Q1531370,outliner
+http://www.wikidata.org/entity/Q1568118,personal information manager
+http://www.wikidata.org/entity/Q1575458,validator
+http://www.wikidata.org/entity/Q1632665,Httpd
+http://www.wikidata.org/entity/Q1637192,video player
+http://www.wikidata.org/entity/Q1639024,mathematical software
+http://www.wikidata.org/entity/Q1641413,job scheduler
+http://www.wikidata.org/entity/Q1760114,GLR parser
+http://www.wikidata.org/entity/Q1760545,XML editor
+http://www.wikidata.org/entity/Q1798149,laboratory information management system
+http://www.wikidata.org/entity/Q1955251,music software
+http://www.wikidata.org/entity/Q2023643,On-premises software
+http://www.wikidata.org/entity/Q2072225,human resource management system
+http://www.wikidata.org/entity/Q2092884,tiling window manager
+http://www.wikidata.org/entity/Q2115026,presentation program
+http://www.wikidata.org/entity/Q2158576,orthodox file manager
+http://www.wikidata.org/entity/Q2164323,documentation generator
+http://www.wikidata.org/entity/Q2164499,optical disc authoring software
+http://www.wikidata.org/entity/Q2257348,grammar checker
+http://www.wikidata.org/entity/Q2276335,graphics suite
+http://www.wikidata.org/entity/Q2351962,raster graphics editor
+http://www.wikidata.org/entity/Q2462003,instant messaging client
+http://www.wikidata.org/entity/Q2467310,UML tool
+http://www.wikidata.org/entity/Q2481505,audio codec
+http://www.wikidata.org/entity/Q2522958,video software
+http://www.wikidata.org/entity/Q2727468,build automation
+http://www.wikidata.org/entity/Q2933820,calendaring software
+http://www.wikidata.org/entity/Q2979024,HTTP client
+http://www.wikidata.org/entity/Q2996416,file converter
+http://www.wikidata.org/entity/Q3006107,portable application creator
+http://www.wikidata.org/entity/Q3125508,hacking tool
+http://www.wikidata.org/entity/Q3248226,partition editor
+http://www.wikidata.org/entity/Q3257916,animation software
+http://www.wikidata.org/entity/Q3257918,educational content editing software
+http://www.wikidata.org/entity/Q3257920,Q3257920
+http://www.wikidata.org/entity/Q3257930,version control system
+http://www.wikidata.org/entity/Q3307487,diagramming software
+http://www.wikidata.org/entity/Q3363001,wrapper library
+http://www.wikidata.org/entity/Q3455980,Tax compliance software
+http://www.wikidata.org/entity/Q3503189,FTP client
+http://www.wikidata.org/entity/Q3552754,Disk utility
+http://www.wikidata.org/entity/Q3559933,Live support software
+http://www.wikidata.org/entity/Q3614994,lexical analyzer generator
+http://www.wikidata.org/entity/Q3635085,communication software
+http://www.wikidata.org/entity/Q3751111,medical software
+http://www.wikidata.org/entity/Q3833135,Linux Intrusion Detection System
+http://www.wikidata.org/entity/Q4117406,implementation of a programming language
+http://www.wikidata.org/entity/Q4343954,web development tools
+http://www.wikidata.org/entity/Q4462013,translator
+http://www.wikidata.org/entity/Q4497736,chemistry software
+http://www.wikidata.org/entity/Q4751122,Analytic applications
+http://www.wikidata.org/entity/Q4774495,anti-worm
+http://www.wikidata.org/entity/Q4774525,anti-keylogger
+http://www.wikidata.org/entity/Q4781462,applicant tracking system
+http://www.wikidata.org/entity/Q4811587,astrology software
+http://www.wikidata.org/entity/Q4839801,backup software
+http://www.wikidata.org/entity/Q4856363,Banking software
+http://www.wikidata.org/entity/Q4994515,file sharing software
+http://www.wikidata.org/entity/Q5014368,CSS framework
+http://www.wikidata.org/entity/Q5021473,Call-recording software
+http://www.wikidata.org/entity/Q5133829,clinical decision support system
+http://www.wikidata.org/entity/Q5155929,note-taking software
+http://www.wikidata.org/entity/Q5156020,video conversion software
+http://www.wikidata.org/entity/Q5156780,Compositing software
+http://www.wikidata.org/entity/Q5164835,Q5164835
+http://www.wikidata.org/entity/Q5165883,control panel
+http://www.wikidata.org/entity/Q5249204,Decision-making software
+http://www.wikidata.org/entity/Q5282305,disk cleaner
+http://www.wikidata.org/entity/Q5282311,disk encryption software
+http://www.wikidata.org/entity/Q5287211,dockapp
+http://www.wikidata.org/entity/Q5374286,Employee monitoring software
+http://www.wikidata.org/entity/Q5375622,encryption software
+http://www.wikidata.org/entity/Q5465090,Font management software
+http://www.wikidata.org/entity/Q5514340,GPS navigation software
+http://www.wikidata.org/entity/Q5519929,game creation system
+http://www.wikidata.org/entity/Q5597150,graphic art software
+http://www.wikidata.org/entity/Q5597177,data visualization software
+http://www.wikidata.org/entity/Q5969185,IBM mainframe utility program
+http://www.wikidata.org/entity/Q6059927,inventory management software
+http://www.wikidata.org/entity/Q6078050,education platform
+http://www.wikidata.org/entity/Q6470767,assembler
+http://www.wikidata.org/entity/Q6485088,Landscape design software
+http://www.wikidata.org/entity/Q6543035,License manager
+http://www.wikidata.org/entity/Q6553702,Social network analysis software
+http://www.wikidata.org/entity/Q6577295,MIDI editor
+http://www.wikidata.org/entity/Q6686945,wiki software
+http://www.wikidata.org/entity/Q6935122,Multitrack recording software
+http://www.wikidata.org/entity/Q7001229,network utility
+http://www.wikidata.org/entity/Q7246032,privacy software
+http://www.wikidata.org/entity/Q7247856,productivity software
+http://www.wikidata.org/entity/Q7307150,Reference software
+http://www.wikidata.org/entity/Q7311809,reminder software
+http://www.wikidata.org/entity/Q7314108,report generator
+http://www.wikidata.org/entity/Q7439078,screenwriting software
+http://www.wikidata.org/entity/Q7554269,software calculator
+http://www.wikidata.org/entity/Q7554360,software sampler
+http://www.wikidata.org/entity/Q7606662,steganography tool
+http://www.wikidata.org/entity/Q7621851,Strategic planning software
+http://www.wikidata.org/entity/Q7702738,terminal multiplexer
+http://www.wikidata.org/entity/Q7705809,test suite
+http://www.wikidata.org/entity/Q7936632,visualization software
+http://www.wikidata.org/entity/Q7975347,waveform viewer
+http://www.wikidata.org/entity/Q9443082,distributed computing software
+http://www.wikidata.org/entity/Q10413423,anti-cheat
+http://www.wikidata.org/entity/Q10417670,IRC client
+http://www.wikidata.org/entity/Q11121294,simulation software
+http://www.wikidata.org/entity/Q11312455,stream editor
+http://www.wikidata.org/entity/Q11387554,proof assistant
+http://www.wikidata.org/entity/Q12014419,peer-to-peer software
+http://www.wikidata.org/entity/Q12847068,VBRİS
+http://www.wikidata.org/entity/Q13199995,statistical package
+http://www.wikidata.org/entity/Q13224353,monitoring application
+http://www.wikidata.org/entity/Q13429867,anti-malware
+http://www.wikidata.org/entity/Q13515741,content-control software
+http://www.wikidata.org/entity/Q15478230,data synchronization software
+http://www.wikidata.org/entity/Q15544757,science software
+http://www.wikidata.org/entity/Q15547961,multimedia software
+http://www.wikidata.org/entity/Q15548044,application launcher
+http://www.wikidata.org/entity/Q15548064,computer-aided manufacturing software
+http://www.wikidata.org/entity/Q15548076,computer-aided design software
+http://www.wikidata.org/entity/Q15548082,industrial software
+http://www.wikidata.org/entity/Q15562063,audio software
+http://www.wikidata.org/entity/Q15590034,plotting software
+http://www.wikidata.org/entity/Q15614021,VoIP software
+http://www.wikidata.org/entity/Q15618491,speech synthesis software
+http://www.wikidata.org/entity/Q15618492,software testing tool
+http://www.wikidata.org/entity/Q15623421,image processing software
+http://www.wikidata.org/entity/Q16000093,financial software
+http://www.wikidata.org/entity/Q16000314,Robot software
+http://www.wikidata.org/entity/Q16676491,e-mail server
+http://www.wikidata.org/entity/Q17138243,Virtual home design software
+http://www.wikidata.org/entity/Q17167101,TeX editor
+http://www.wikidata.org/entity/Q18922759,messaging app
+http://www.wikidata.org/entity/Q19595415,TeX macro package
+http://www.wikidata.org/entity/Q19765952,SNES emulator
+http://www.wikidata.org/entity/Q21127166,Java software library
+http://www.wikidata.org/entity/Q21129801,natural language processing toolkit
+http://www.wikidata.org/entity/Q21570197,typing tutor
+http://www.wikidata.org/entity/Q21577192,BitTorrent client
+http://www.wikidata.org/entity/Q24021076,subtitle editor
+http://www.wikidata.org/entity/Q24789150,JavaScript framework
+http://www.wikidata.org/entity/Q24963804,help desk software
+http://www.wikidata.org/entity/Q24966456,Video management system
+http://www.wikidata.org/entity/Q25053629,collections management system
+http://www.wikidata.org/entity/Q25303346,file synchronisation software
+http://www.wikidata.org/entity/Q25303924,file archiver
+http://www.wikidata.org/entity/Q25374232,closed-circuit television software
+http://www.wikidata.org/entity/Q25588783,driver assistance software
+http://www.wikidata.org/entity/Q25595203,Internet forum software
+http://www.wikidata.org/entity/Q25929318,disk cloning software
+http://www.wikidata.org/entity/Q26203767,spatial analysis software
+http://www.wikidata.org/entity/Q26367719,On-the-fly encryption software
+http://www.wikidata.org/entity/Q26726974,dynamic geometry software
+http://www.wikidata.org/entity/Q26921397,password cracking software
+http://www.wikidata.org/entity/Q26921434,anti-rootkit software
+http://www.wikidata.org/entity/Q27598291,platform virtualization software
+http://www.wikidata.org/entity/Q28050159,data analysis software
+http://www.wikidata.org/entity/Q28051323,video-conferencing software
+http://www.wikidata.org/entity/Q28059995,CASE tool
+http://www.wikidata.org/entity/Q28094186,XMPP client
+http://www.wikidata.org/entity/Q28964688,data recovery software
+http://www.wikidata.org/entity/Q28966214,peer-to-peer web hosting software
+http://www.wikidata.org/entity/Q29032804,configuration manager
+http://www.wikidata.org/entity/Q29032808,software configuration manager
+http://www.wikidata.org/entity/Q29156727,cheminformatics software
+http://www.wikidata.org/entity/Q29364197,desktop publishing software
+http://www.wikidata.org/entity/Q29558845,SSH client
+http://www.wikidata.org/entity/Q29642842,e-book reader software
+http://www.wikidata.org/entity/Q29642950,Python library
+http://www.wikidata.org/entity/Q29645725,printing software
+http://www.wikidata.org/entity/Q29647057,ray-tracing software
+http://www.wikidata.org/entity/Q34029151,Power engineering software
+http://www.wikidata.org/entity/Q48995961,headless content management system
+http://www.wikidata.org/entity/Q48997925,customer data platform
+http://www.wikidata.org/entity/Q51938570,entertainment software
+http://www.wikidata.org/entity/Q52229854,Android emulator
+http://www.wikidata.org/entity/Q56260595,digital drivers license
+http://www.wikidata.org/entity/Q60345396,screencasting software
+http://www.wikidata.org/entity/Q60461507,search tool
+http://www.wikidata.org/entity/Q61906203,speech recognition software
+http://www.wikidata.org/entity/Q62421385,lovers software
+http://www.wikidata.org/entity/Q63067479,electronic mailing list manager
+http://www.wikidata.org/entity/Q63862928,internet application
+http://www.wikidata.org/entity/Q63951851,computer-assisted learning
+http://www.wikidata.org/entity/Q65048190,mind mapping software
+http://www.wikidata.org/entity/Q65966993,hypertext system
+http://www.wikidata.org/entity/Q66088840,audio processor
+http://www.wikidata.org/entity/Q66436511,publishing software
+http://www.wikidata.org/entity/Q68261990,uninstaller
+http://www.wikidata.org/entity/Q70191115,stalkerware
+http://www.wikidata.org/entity/Q73065854,Blockchain-as-a-Service
+http://www.wikidata.org/entity/Q73539779,R package
+http://www.wikidata.org/entity/Q74086777,numerical software
+http://www.wikidata.org/entity/Q77271222,reporting system
+http://www.wikidata.org/entity/Q84177695,to-do list manager
+http://www.wikidata.org/entity/Q85757110,discovery layer
+http://www.wikidata.org/entity/Q91231169,RPKI validator
+http://www.wikidata.org/entity/Q91267365,imageboard software
+http://www.wikidata.org/entity/Q91348108,daemon-managing daemon
+http://www.wikidata.org/entity/Q92205975,econometrics software
+http://www.wikidata.org/entity/Q95988573,customer relationship management software
+http://www.wikidata.org/entity/Q96252740,Gopher client
+http://www.wikidata.org/entity/Q96252759,Gemini client
+http://www.wikidata.org/entity/Q96313657,booru software
+http://www.wikidata.org/entity/Q97644802,farm management software
+http://www.wikidata.org/entity/Q98905977,dictionary software
+http://www.wikidata.org/entity/Q99263266,anti-plagiarism software
+http://www.wikidata.org/entity/Q99460482,justifier
+http://www.wikidata.org/entity/Q100158612,network simulator
+http://www.wikidata.org/entity/Q100744571,rendering software
+http://www.wikidata.org/entity/Q101111163,document authoring system
+http://www.wikidata.org/entity/Q101423211,3D mapping software
+http://www.wikidata.org/entity/Q104636634,fuzzy finder
+http://www.wikidata.org/entity/Q104764409,mail user agent
+http://www.wikidata.org/entity/Q104804744,X11 application
+http://www.wikidata.org/entity/Q105044723,pixel-art editor
+http://www.wikidata.org/entity/Q105100182,Jupyter kernel
+http://www.wikidata.org/entity/Q105695317,workflow language
+http://www.wikidata.org/entity/Q107110354,printing architecture
+http://www.wikidata.org/entity/Q107110391,Unix printing architecture
+http://www.wikidata.org/entity/Q108480878,Emacs extension
+http://www.wikidata.org/entity/Q108514127,LanguageApp
+http://www.wikidata.org/entity/Q108901409,paddle-and-ball video game
+http://www.wikidata.org/entity/Q109720157,association management software
+http://www.wikidata.org/entity/Q110439009,mail notification program
+http://www.wikidata.org/entity/Q110907733,metronome application
+http://www.wikidata.org/entity/Q111524996,Gemini server
+http://www.wikidata.org/entity/Q112255924,routing software
+http://www.wikidata.org/entity/Q112757532,peer-to-peer file sharing software
+http://www.wikidata.org/entity/Q113723152,log viewer
+http://www.wikidata.org/entity/Q113724486,screenshot software
+http://www.wikidata.org/entity/Q114210323,Nintendo Switch emulator
+http://www.wikidata.org/entity/Q114461696,cave surveying software
+http://www.wikidata.org/entity/Q114873882,DVR software
+http://www.wikidata.org/entity/Q114981191,software simulator
+http://www.wikidata.org/entity/Q115049441,Music Player Daemon client
+http://www.wikidata.org/entity/Q17155032,software category
+http://www.wikidata.org/entity/Q487365,gateway
+http://www.wikidata.org/entity/Q570871,email client
+http://www.wikidata.org/entity/Q643876,Virtual printer
+http://www.wikidata.org/entity/Q907342,compatibility layer
+http://www.wikidata.org/entity/Q1074158,educational software
+http://www.wikidata.org/entity/Q1727373,lint
+http://www.wikidata.org/entity/Q1756442,LR parser
+http://www.wikidata.org/entity/Q3077240,forge
+http://www.wikidata.org/entity/Q15079042,spaced repetition software
+http://www.wikidata.org/entity/Q24963804,help desk software
+http://www.wikidata.org/entity/Q28057030,ERP software
+http://www.wikidata.org/entity/Q28168011,X server
+http://www.wikidata.org/entity/Q1755130,residential gateway
+http://www.wikidata.org/entity/Q1941556,GSM Gateway
+http://www.wikidata.org/entity/Q2465461,default gateway
+http://www.wikidata.org/entity/Q2597557,XMPP transport
+http://www.wikidata.org/entity/Q21072586,WebRTC Gateway
+http://www.wikidata.org/entity/Q327618,webmail
+http://www.wikidata.org/entity/Q2100811,point
+http://www.wikidata.org/entity/Q12765697,Q12765697
+http://www.wikidata.org/entity/Q188558,Wine
+http://www.wikidata.org/entity/Q4272073,MKS Toolkit
+http://www.wikidata.org/entity/Q1224999,educational video game
+http://www.wikidata.org/entity/Q3696233,courseware
+http://www.wikidata.org/entity/Q6078050,education platform
+http://www.wikidata.org/entity/Q7628422,study software
+http://www.wikidata.org/entity/Q10314140,Kelix
+http://www.wikidata.org/entity/Q14905958,Q14905958
+http://www.wikidata.org/entity/Q21570197,typing tutor
+http://www.wikidata.org/entity/Q25421947,Q25421947
+http://www.wikidata.org/entity/Q63951851,computer-assisted learning
+http://www.wikidata.org/entity/Q99263266,anti-plagiarism software
+http://www.wikidata.org/entity/Q2311792,Splint
+http://www.wikidata.org/entity/Q1204392,LALR parser
+http://www.wikidata.org/entity/Q1760114,GLR parser
+http://www.wikidata.org/entity/Q2709511,Simple LR parser
+http://www.wikidata.org/entity/Q5033355,Canonical LR parser
+http://www.wikidata.org/entity/Q58898459,interactive tutorial
+http://www.wikidata.org/entity/Q60616268,language learning video game
+http://www.wikidata.org/entity/Q60617574,brain fitness video game
+http://www.wikidata.org/entity/Q65007441,humanitarian video game
+http://www.wikidata.org/entity/Q92257769,reading game
+http://www.wikidata.org/entity/Q694007,learning management system
+http://www.wikidata.org/entity/Q1194674,computer-assisted language learning
+http://www.wikidata.org/entity/Q20822063,Esperanto learning tool
+http://www.wikidata.org/entity/Q15726780,edukado.net
