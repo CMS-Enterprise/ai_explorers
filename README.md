@@ -21,6 +21,7 @@ The goals of the pilot initiative are:
     - [OIT Pilot](#OIT)
     - [CCSQ Pilot](#CCSQ)
     - [OC Pilot](#OC)
+    - [CM Pilot](#CM)
 - [Contributing](#contributing)
 
 
@@ -150,6 +151,37 @@ The OC Pilot trained and test dozens of ML models using data from CCXP and MCT t
 
 - David Kane, <david.kane@cms.hhs.gov>, WETG/DWPS – COR/Technical Advisor
 - Matt Raschka, <matthew.raschka@cms.hhs.gov>, WETG – Technical Advisor
+
+<a id="CM"></a>
+## CM Pilot
+
+**Use Case Description**
+
+The CM pilot is aimed to determine the viability of utilizing AI/ML capabilities available in AWS services to analyze email creating a reliable analysis tool for listening to the Voice of the Customer (VoC).
+
+**Objective**
+
+The goal of CM Pilot is to develop a POC that can identify topics, analyze sentiments and identify trends. The long term vision includes;
+- Integrate the POC with Education Training and Communication (ETC)
+- Use in IRA
+- Use in compliance
+- Use in Appeals.
+
+**What Was Completed**
+
+The CM Pilot cleaned and trained email data that exists in the RDS databases and used in the ML models. The models were used to conduct the following RDS Communication analysis;
+- Topic Analysis
+- Sentiment Analysis
+- Time Series Analysis
+- Trend Analysis.
+
+**GitHub Repo**
+
+**Contacts**
+
+- Elizabeth McKenna – CMS
+- Lisa Hesseltine – GDIT
+- Samarat Mondal
 
 <a id="contributing"></a>
 ## Contributing
