@@ -22,6 +22,7 @@ The goals of the pilot initiative are:
     - [CCSQ Pilot](#CCSQ)
     - [OC Pilot](#OC)
     - [CM Pilot](#CM)
+    - [CMCS Pilot](#CMCS)
 - [Contributing](#contributing)
 
 
@@ -179,9 +180,34 @@ The CM Pilot cleaned and trained email data that exists in the RDS databases and
 
 **Contacts**
 
-- Elizabeth McKenna – CMS
-- Lisa Hesseltine – GDIT
-- Samarat Mondal
+- Elizabeth McKenna
+
+<a id="CMCS"></a>
+## CMCS Pilot
+
+**Use Case Description**
+
+The CMCS pilot is aimed to provide tools that improve T-MSIS state technical assistance by empowering T-MSIS technical assistants with predictive data quality metrics on state submitted data.
+
+**Objective**
+
+The goal of CMCS Pilot includes;
+- To create model(s) that predict the number of errors in a state submission for the upcoming month and assess whether it is outside the expected range of values.
+- To automate as much as possible in a pilot to overcome volume and variety challenges of the use case.
+- To build a light-weight pilot via already available value-add data science tools (Databricks), augmenting the small pilot team.
+- To pilot multiple model types, using both traditional python library and Databricks AutoML to evaluate, designating the best choice if predictive performance is acceptable.
+
+**What Was Completed**
+
+The CMCS Pilot developed a set of re-runnable Databricks-based notebooks were created that generates and evaluates multiple forecast and regression models as well as a simple linear regression model for comparison. 
+Additionally, a QuickSight business intelligence dashboard was created that displays the number of data quality errors (past and predicted) for each state and file type by month.
+
+**GitHub Repo**
+- <https://github.com/CMS-Enterprise/ai_explorers/tree/main/CMCS%20Pilot>
+
+**Contacts**
+
+- Hirsch Malik
 
 <a id="contributing"></a>
 ## Contributing
