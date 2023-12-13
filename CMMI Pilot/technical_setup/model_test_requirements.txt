@@ -148,7 +148,7 @@ traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_16751105
 typing_extensions==4.5.0
 tzdata==2023.3
 uc-micro-py==1.0.2
-urllib3==1.26.16
+urllib3==1.26.18
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1673864653149/work
 Werkzeug==2.3.6
 wrapt==1.15.0
