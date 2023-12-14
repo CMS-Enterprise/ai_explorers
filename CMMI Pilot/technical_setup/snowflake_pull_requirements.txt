@@ -74,6 +74,6 @@ tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_164882724591
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1675110562325/work
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
 tzdata==2023.3
-urllib3==1.26.16
+urllib3==1.26.18
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1673864653149/work
 zipp==3.16.2
