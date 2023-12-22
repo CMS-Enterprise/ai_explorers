@@ -23,6 +23,7 @@ The goals of the pilot initiative are:
     - [OC Pilot](#OC)
     - [CM Pilot](#CM)
     - [CMCS Pilot](#CMCS)
+    - [CMMI Pilot](#CMMI)
 - [Contributing](#contributing)
 
 
@@ -208,6 +209,30 @@ Additionally, a QuickSight business intelligence dashboard was created that disp
 **Contacts**
 
 - Hirsch Malik
+
+<a id="CMMI"></a>
+## CMMI Pilot
+
+**Use Case Description**
+
+The CMCS pilot is aimed to attempt machine learning based approaches for predicting beneficiary outcomes within CMS systems. 
+
+**Objective**
+
+The goal of CMMI Pilot is to predict beneficiary outcomes for unplanned inpatient hospitalizations occurring within 3 months and produce an acute care likelihood flag.
+
+**What Was Completed**
+
+The CMMI Pilot established a new computing environment within the OIT Enterprise Data Lake, piloting a connection to IDR Snowflake claims data. 
+Also, a proof-of-concept machine learning pipeline for predicting beneficiaries’ risk of inpatient hospitalization was developed.
+Additionally, the pilot published code onto the CMS Github platform, providing examples of Lasso, Ridge, Gradient Boosted Trees, and other AI development methods for others to build on.
+
+**GitHub Repo**
+- <https://github.com/CMS-Enterprise/ai_explorers/tree/main/CMMI%20Pilot>
+
+**Contacts**
+
+- Nora Fleming
 
 <a id="contributing"></a>
 ## Contributing
