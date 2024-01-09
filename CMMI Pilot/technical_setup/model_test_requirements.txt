@@ -25,7 +25,7 @@ docutils==0.18.1
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1667317341051/work
 fastjsonschema==2.18.0
 flatbuffers==23.5.26
-fonttools==4.41.1
+fonttools==4.43.0
 gast==0.4.0
 google-auth==2.22.0
 google-auth-oauthlib==1.0.0
@@ -150,7 +150,7 @@ tzdata==2023.3
 uc-micro-py==1.0.2
 urllib3==1.26.18
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1673864653149/work
-Werkzeug==2.3.6
+Werkzeug==2.3.8
 wrapt==1.15.0
 xgboost==2.0.0
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1689374466814/work
