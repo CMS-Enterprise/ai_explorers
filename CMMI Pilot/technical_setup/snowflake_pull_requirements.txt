@@ -9,14 +9,14 @@ cffi==1.15.1
 charset-normalizer==2.1.1
 comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1679481329611/work
 contourpy==1.1.0
-cryptography==41.0.6
+cryptography==42.0.2
 cycler==0.11.0
 debugpy @ file:///croot/debugpy_1690905042057/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
 entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1667317341051/work
 filelock==3.12.2
-fonttools==4.42.1
+fonttools==4.43.0
 greenlet==2.0.2
 idna==3.4
 imageio==2.31.3
@@ -50,7 +50,7 @@ psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
 ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure-eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1642875951954/work
 pycparser==2.21
-pycryptodomex==3.18.0
+pycryptodomex==3.19.1
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1681904169130/work
 PyJWT==2.8.0
 pyOpenSSL==22.1.0
